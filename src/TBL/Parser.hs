@@ -1,5 +1,5 @@
 {-# LANGUAGE OverloadedStrings #-}
-module Parser (loadTable) where
+module TBL.Parser (loadTable) where
 
 import Prelude hiding(takeWhile)
 import Control.Applicative
